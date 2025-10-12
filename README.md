@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Petter Pablo Ferreira, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio em 2024, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniceplac. Sou apaixonado por tecnologia e busco sempre aprimorar o meu conhecimento.
+Me chamo Petter Pablo Ferreira, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio em 2024, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniceplac. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar o meu conhecimento.
 
  <a href="https://github.com/petterpfs?tab=repositories&sort=stargazers">
         <img 
