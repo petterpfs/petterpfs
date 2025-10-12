@@ -1,4 +1,4 @@
-# 🧑🏼‍💻 Petter Pablo 
+# Petter Pablo 
 
 **`Desenvolvedor Full Stack`**
 
